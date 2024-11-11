@@ -3,6 +3,6 @@
 <img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4i6S8YCQEM9VBd2a95HrTHavMRwEQrCSjRQ&s">
 
 - 🔭1.fire wall simulation (IP)
-
 - 🔭2.Password Strength Checker
+- 🔭2.Simple Encryption and Decryption Tool
 
