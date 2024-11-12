@@ -4,5 +4,5 @@
 
 - 🔭1.fire wall simulation (IP)
 - 🔭2.Password Strength Checker
-- 🔭2.Simple Encryption and Decryption Tool
-
+- 🔭3.Simple Encryption and Decryption Tool
+- 🔭4.Basic Email Validator
